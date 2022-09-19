@@ -6,7 +6,7 @@ on:
 jobs:
   pr-labeler:
     name: Label by branch's name pattern
-    runs-on: hako-default
+    runs-on: ubuntu-latest
     permissions:
       contents: read
       pull-requests: write
