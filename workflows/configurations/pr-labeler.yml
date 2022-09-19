@@ -1,0 +1,5 @@
+Feature: ['feature/*', 'feat/*', 'features/*', 'Feature/*', 'Features/*']
+BugFix: ['fix/*', 'bugfix/*', 'bug/*', 'bugs/*', 'hotfix/*', 'hotfixes/*', 'Bug/*', 'Bugs/*']
+Chore: chore/*
+GHA: gha/*
+Optimization: optimize/*
