@@ -1,0 +1,13 @@
+{
+  "name": "PR Labeler Workflow",
+  "description": "PR Labeler CI starter workflow.",
+  "iconName": "example-icon",
+  "categories": [
+      "Language"
+  ],
+  "filePatterns": [
+      "README",
+      "^Dockerfile",
+      "*\\.*$"
+  ]
+}
